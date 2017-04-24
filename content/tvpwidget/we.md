@@ -2,6 +2,6 @@
     "type": "carousel",
     "title": "we",
     "name": "we",
-    "channelId": "",
+    "channelId": "83052333",
     "layout": "bootstrap"
 }
