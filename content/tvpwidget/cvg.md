@@ -2,6 +2,6 @@
     "type": "carousel-spotlight",
     "title": "cvg",
     "name": "cvg",
-    "channelId": "",
+    "channelId": "83052333",
     "layout": "bootstrap"
 }
