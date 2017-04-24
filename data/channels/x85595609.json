@@ -1,0 +1,75 @@
+{
+    "title": "qweqwewqeasds",
+    "description": null,
+    "referenceId": null,
+    "date_created": "1488332453",
+    "date_modified": "1492120535",
+    "tags": null,
+    "sourceId": null,
+    "status": "pending",
+    "visibility": "1",
+    "test_code6": null,
+    "id": "85595609",
+    "loginId": "1758823",
+    "entityType": "3",
+    "titleTextEncoded": "qweqwewqeasds",
+    "category": null,
+    "duration": null,
+    "settings": {
+        "canvasImage": "default_canvas3.jpg",
+        "colorClass": "light",
+        "canvasType": "gallery",
+        "__SMARTLIST__": "RE::add(\n RE::videos(\n  RE::condition()\n   ->lastNDays(150)\n   ->order('dateCreated')\n )\n   \n);",
+        "blocks": [
+            {
+                "name": "ewddf",
+                "add": "videos",
+                "conditions": {
+                    "order": "Engagement",
+                    "limit": "2"
+                },
+                "attributes": {
+                    "videos": {
+                        "title": "wqesd"
+                    },
+                    "products": {
+                        "brand": "wqe"
+                    }
+                },
+                "options": {
+                    "channelId": "85595610"
+                }
+            },
+            {
+                "name": "wddf",
+                "add": "videos",
+                "conditions": {
+                    "order": "Conversion",
+                    "limit": "2"
+                },
+                "attributes": {
+                    "videos": {
+                        "tags": "qewrdf",
+                        "VIDEO_LENGTH": "ewrfdsf"
+                    },
+                    "products": {
+                        "title": "ewrfd",
+                        "cartId": "ewr"
+                    }
+                },
+                "options": {
+                    "channelId": "83052333"
+                },
+                "extras": {
+                    "channelName": "ew"
+                }
+            }
+        ]
+    },
+    "transcripts": null,
+    "test_code": null,
+    "test_code2": null,
+    "test_code3": null,
+    "test_code4": null,
+    "test_code5": null
+}
